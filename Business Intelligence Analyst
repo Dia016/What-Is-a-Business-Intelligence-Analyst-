@@ -1,0 +1,63 @@
+What Is a Business Intelligence Analyst?
+As mentioned in the last reading, business analytics is performed by business intelligence (BI) analysts. BI analysts use data and statistical analysis to help companies make better business decisions. 
+They collect, process, and analyze data from various sources, such as market research, sales figures, and financial reports. 
+They then use this information to identify trends, patterns, and opportunities, and they present their findings to management and other stakeholders in the form of reports, dashboards, and visualizations.
+BI analysts may also be involved in the design and implementation of tools and dashboards to support decision-making processes, utilizing business analytics software like Tableau.
+
+Below is a list of common responsibilities for BI analysts:
+Exploring and investigating past business performance data to produce insights and drive strategic planning for the business.
+Using data to analyze business problems and suggest solutions.
+Developing and managing business intelligence solutions for the organization.
+Visualizing key data and key performance indicators (KPIs) to inform business decisions.
+Designing, developing, testing, and deploying dashboards.
+
+Creating simple-to-complex SQL (structured query language) queries to extract and analyze data.
+Applying research and evaluation standards, descriptive statistics, and data management principles to translate complex data into meaningful content.
+Designing, creating, testing, and maintaining a portfolio of reports, scorecards, databases, and dashboard solutions.
+Delivering, reviewing, and distributing reports.
+
+Unfortunately, the industry does not do a great job of using consistent terms to describe these responsibilities — therefore, it is more important to understand the responsibilities themselves than it is to understand how they are classified.
+With that said, throughout this certificate, you will learn about some related roles and responsibilities, so for the sake of clarity, the videos and readings were designed very purposefully to stick to a convention of aligning role titles with fields and associated responsibilities. 
+The three roles you will learn about are business intelligence analyst, business analyst, and data analyst, and the associated fields are business analytics, business analysis, and data analytics.
+
+Business Analysis vs. Business Analytics
+Recall that business analytics uses data and reporting to investigate a business's performance to discover insights and make data-driven decisions.
+
+One field that business analytics is often confused with is business analysis. Business analysis uses functions and processes to define needs and recommend solutions that deliver value to stakeholders. 
+Although business analysis and business analytics are related in that the goal is to solve business problems, they require rather different skill sets and organizational focus.
+Examine the table below to learn the key differentiators between the two.
+For example, a business analysis project may focus on defining business processes across a company, whereas a business analytics project may focus on making dashboards to track metrics.
+If you'd like to learn more about the distinction between these two fields, read the following article: 
+The Difference Between Business Analysis and Business Analytics You Should Not Miss
+
+Not only is the distinction between business analysis and business analytics becoming less clear for individuals, but this is also the case in the industry as a whole. 
+For example, if you were applying for a "business analyst" role, you'd have to pay close attention to the job description and make sure it aligns with your skill set in either business analysis or business analytics. 
+Companies are using the same role name for different job responsibilities. There are some companies that combine both fields into a single job description all under a "business analyst" role.
+While there is no industry standard for roles and the associated fields, the courses in this certificate will be based on the following classifications:
+
+Role :   Business analyst-                 Business analysis    
+Field:   Business intelligence analyst-    Business analytics
+      
+There are a lot of similar words here! Take a moment to ensure you read this page carefully, as this certificate is geared toward preparing you for the role of a business intelligence analyst, which means you will be prepared for a career in business analytics. 
+With that said, you will also learn about the basics of business analysis for a couple of reasons:
+Depending on the size of the company you work for, you may be asked to perform tasks related to both business analysis and business analytics.
+You may find yourself working with a business analyst, so as a business intelligence analyst, the more you understand their role, the better you will be able to collaborate with them.
+
+Business Analytics vs. Data Analytics
+As a reminder, analytics is the process of discovering and interpreting meaning from data. The goal of analytics is to discover patterns and trends that businesses can use to take informed actions — also known as insights. 
+There are many fields within analytics (e.g., business analytics, data analytics, data science, and more) that focus on the same end goal stated above, within a different concentration.
+Business analytics uses data and reporting to investigate a business's performance to discover insights and make data-driven decisions. You just learned about the distinction between business analysis and business analytics in the last reading.
+Next, you'll learn about the differences between business analytics and data analytics. Data analytics is a field within analytics that primarily focuses on exploring, manipulating, visualizing, and analyzing data to discover insights and make data-driven decisions.  
+Similar to business analysis and business analytics, the industry is oftentimes unclear with the responsibilities required by a business analyst and data analyst. 
+
+A data analyst role could be disguised as a business analyst role and vice versa. The best way to prepare yourself when exploring these job postings is to familiarize yourself with the difference between a business analyst and data analyst.
+Again, in an effort to clearly define these roles and responsibilities, the following convention will be used throughout this certificate:
+
+Role                                  Field                      Field Definition
+
+Business analyst                    Business analysis           Uses functions and processes to define needs and recommend solutions that deliver value to stakeholders. 
+Business intelligence analyst       Business analytics          Uses data and reporting to investigate a business's performance to discover insights and make data-driven decisions
+Business analytics                  Data analyst                Data analytics
+
+A field within analytics that primarily focuses on exploring, manipulating, visualizing, and analyzing data to discover insights and make data-driven decisions.  
+
